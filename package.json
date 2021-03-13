@@ -1,15 +1,15 @@
 {
-  "name": "solid",
+  "name": "enveco",
   "version": "1.0.0",
-  "description": "Solid Template",
-  "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
-  "license": "GPLv3",
+  "description": "Enveco Analytics",
+  "author": "Madhav Somanath",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/pasqualevitiello/solid.git"
+    "url": "https://github.com/Madhav-Somanath/EnvecoAnalytics"
   },
   "bugs": {
-    "url": "https://bitbucket.org/pasqualevitiello/solid/issues"
+    "url": "https://github.com/Madhav-Somanath/EnvecoAnalytics/issues"
   },
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
@@ -49,6 +49,6 @@
     "stylelint": "^9.4.0",
     "uglify-es": "^3.3.10"
   },
-  "homepage": "https://bitbucket.org/pasqualevitiello/solid#readme",
+  "homepage": "https://github.com/Madhav-Somanath/EnvecoAnalytics",
   "main": ".eslintrc.js"
 }
